@@ -1,0 +1,14 @@
+C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\bin\Debug\net10.0\BackendAssigment.exe
+C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\bin\Debug\net10.0\BackendAssigment.deps.json
+C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\bin\Debug\net10.0\BackendAssigment.runtimeconfig.json
+C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\bin\Debug\net10.0\BackendAssigment.dll
+C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\bin\Debug\net10.0\BackendAssigment.pdb
+C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\obj\Debug\net10.0\BackendAssigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\obj\Debug\net10.0\BackendAssigment.AssemblyInfoInputs.cache
+C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\obj\Debug\net10.0\BackendAssigment.AssemblyInfo.cs
+C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\obj\Debug\net10.0\BackendAssigment.csproj.CoreCompileInputs.cache
+C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\obj\Debug\net10.0\BackendAssigment.dll
+C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\obj\Debug\net10.0\refint\BackendAssigment.dll
+C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\obj\Debug\net10.0\BackendAssigment.pdb
+C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\obj\Debug\net10.0\BackendAssigment.genruntimeconfig.cache
+C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\obj\Debug\net10.0\ref\BackendAssigment.dll
