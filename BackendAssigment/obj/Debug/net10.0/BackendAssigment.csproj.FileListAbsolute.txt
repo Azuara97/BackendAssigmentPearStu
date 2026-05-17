@@ -12,3 +12,4 @@ C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\obj\Debug\n
 C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\obj\Debug\net10.0\BackendAssigment.pdb
 C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\obj\Debug\net10.0\BackendAssigment.genruntimeconfig.cache
 C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\obj\Debug\net10.0\ref\BackendAssigment.dll
+C:\Users\ricky\OneDrive\Documentos\PearStuAssigment\BackendAssigment\obj\Debug\net10.0\BackendAssigment.sourcelink.json
