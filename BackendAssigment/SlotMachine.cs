@@ -98,7 +98,7 @@ public class SlotMachine
         };
     }
 
-    int getRandomIndex(int[] band)
+    int GetRandomIndex(int[] band)
     {
         Random random = new Random();
         return random.Next(0, band.Length);
@@ -106,11 +106,11 @@ public class SlotMachine
 
     public void SpinGrid()
     {
-        int index1 = getRandomIndex(band1);
-        int index2 = getRandomIndex(band2);
-        int index3 = getRandomIndex(band3);
-        int index4 = getRandomIndex(band4);
-        int index5 = getRandomIndex(band5);
+        int index1 = GetRandomIndex(band1);
+        int index2 = GetRandomIndex(band2);
+        int index3 = GetRandomIndex(band3);
+        int index4 = GetRandomIndex(band4);
+        int index5 = GetRandomIndex(band5);
 
         symbGrid[0, 0] = band1[index1];
         symbGrid[0, 1] = band2[index2];
